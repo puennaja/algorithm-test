@@ -1,7 +1,7 @@
 package timeconversion_test
 
 import (
-	"algorithm-test/timeconversion"
+	"algorithm-test/hackerrank/timeconversion"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

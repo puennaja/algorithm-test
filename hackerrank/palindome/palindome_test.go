@@ -1,7 +1,7 @@
 package palindome_test
 
 import (
-	"algorithm-test/palindome"
+	"algorithm-test/hackerrank/palindome"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

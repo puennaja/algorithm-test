@@ -1,7 +1,7 @@
 package matchingstrings_test
 
 import (
-	matchingstrings "algorithm-test/matchingStrings"
+	matchingstrings "algorithm-test/hackerrank/matchingStrings"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

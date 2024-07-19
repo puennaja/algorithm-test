@@ -1,7 +1,7 @@
 package lonelyinteger_test
 
 import (
-	"algorithm-test/lonelyinteger"
+	"algorithm-test/hackerrank/lonelyinteger"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
