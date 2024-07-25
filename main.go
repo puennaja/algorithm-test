@@ -1,7 +1,7 @@
 package main
 
 import (
-	"algorithm-test/hackerrank/diagonaldifference"
+	"algorithm-test/hackerrank/pangrams"
 )
 
 func main() {
@@ -10,9 +10,11 @@ func main() {
 	// 11 12
 	// 22 21
 
-	arr1 := []int32{1, 2, 3, 4}
-	arr2 := []int32{1, 2, 3, 4}
-	arr3 := []int32{1, 2, 3, 4}
-	arr := [][]int32{arr1, arr2, arr3}
-	diagonaldifference.DiagonalDifference(arr)
+	// arr1 := []int32{1, 2, 3, 4}
+	// arr2 := []int32{1, 2, 3, 4}
+	// arr3 := []int32{1, 2, 3, 4}
+	// arr := [][]int32{arr1, arr2, arr3}
+	// diagonaldifference.DiagonalDifference(arr)
+
+	pangrams.Pangrams("qmExzBIJmdELxyOFWv LOCmefk TwPhargKSPEqSxzveiun")
 }
